@@ -13,7 +13,7 @@ export default function Home() {
         <section className="container mx-auto px-4 py-16 text-center">
           <div className="animate-fade-in">
             <h2 className="text-3xl font-semibold mb-4">
-              Add Professional Watermarks to Your Images
+              Add Professional Watermarks to Your Images And Text
             </h2>
             <div className="flex justify-center items-center">
               <Image src="/image.jpg" alt="Image" height={200} width={200}
