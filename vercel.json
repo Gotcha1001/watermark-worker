@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "app/api/**/*": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
